@@ -1,0 +1,298 @@
+[
+  {
+    "fileName": "Adobe_certificate.pdf",
+    "filePath": "/certificates/Adobe_certificate.pdf",
+    "title": "Adobe Certification",
+    "issuer": "Adobe",
+    "year": "2024",
+    "category": "Design"
+  },
+  {
+    "fileName": "Agentathon_Certificate.pdf",
+    "filePath": "/certificates/Agentathon_Certificate.pdf",
+    "title": "Agentathon AI Hackathon Winner",
+    "issuer": "Lyzr AI & GFG",
+    "year": "2024",
+    "category": "Hackathons"
+  },
+  {
+    "fileName": "BlueStock _Offerletter.pdf",
+    "filePath": "/certificates/BlueStock _Offerletter.pdf",
+    "title": "Software Engineer Intern Offer Letter",
+    "issuer": "BlueStock FinTech",
+    "year": "2024",
+    "category": "Internships"
+  },
+  {
+    "fileName": "Cisco C Advanced NQ.pdf",
+    "filePath": "/certificates/Cisco C Advanced NQ.pdf",
+    "title": "Advanced C Programming",
+    "issuer": "Cisco Networking Academy",
+    "year": "2025",
+    "category": "Cisco"
+  },
+  {
+    "fileName": "Cisco Cyber_Essentials NQ.pdf",
+    "filePath": "/certificates/Cisco Cyber_Essentials NQ.pdf",
+    "title": "Cybersecurity Essentials",
+    "issuer": "Cisco Networking Academy",
+    "year": "2025",
+    "category": "Cisco"
+  },
+  {
+    "fileName": "Cisco Exploring_Networking.pdf",
+    "filePath": "/certificates/Cisco Exploring_Networking.pdf",
+    "title": "Exploring Networking",
+    "issuer": "Cisco Networking Academy",
+    "year": "2025",
+    "category": "Cisco"
+  },
+  {
+    "fileName": "Cisco Intro_to_CS NQ.pdf",
+    "filePath": "/certificates/Cisco Intro_to_CS NQ.pdf",
+    "title": "Introduction to Cybersecurity",
+    "issuer": "Cisco Networking Academy",
+    "year": "2025",
+    "category": "Cisco"
+  },
+  {
+    "fileName": "Cisco Intro_to_CS_badge.pdf",
+    "filePath": "/certificates/Cisco Intro_to_CS_badge.pdf",
+    "title": "Introduction to Cybersecurity Badge",
+    "issuer": "Cisco Networking Academy",
+    "year": "2025",
+    "category": "Cisco"
+  },
+  {
+    "fileName": "Cisco JavaScript_Essentials.pdf",
+    "filePath": "/certificates/Cisco JavaScript_Essentials.pdf",
+    "title": "JavaScript Essentials",
+    "issuer": "Cisco Networking Academy",
+    "year": "2025",
+    "category": "Cisco"
+  },
+  {
+    "fileName": "Cisco Junior_CS.pdf",
+    "filePath": "/certificates/Cisco Junior_CS.pdf",
+    "title": "Junior Cybersecurity Analyst",
+    "issuer": "Cisco Networking Academy",
+    "year": "2025",
+    "category": "Cisco"
+  },
+  {
+    "fileName": "Cisco Packet_Tracer.pdf",
+    "filePath": "/certificates/Cisco Packet_Tracer.pdf",
+    "title": "Introduction to Packet Tracer",
+    "issuer": "Cisco Networking Academy",
+    "year": "2025",
+    "category": "Cisco"
+  },
+  {
+    "fileName": "Cisco_Python.pdf",
+    "filePath": "/certificates/Cisco_Python.pdf",
+    "title": "Python Programming Foundations",
+    "issuer": "Cisco Networking Academy",
+    "year": "2025",
+    "category": "Cisco"
+  },
+  {
+    "fileName": "eticket_WomeninAIFoundersMixer_T4130000265904041.pdf",
+    "filePath": "/certificates/eticket_WomeninAIFoundersMixer_T4130000265904041.pdf",
+    "title": "Women in AI Founders Mixer Ticket",
+    "issuer": "Women in AI",
+    "year": "2024",
+    "category": "Other"
+  },
+  {
+    "fileName": "GFG-AWS Architect Associate.pdf",
+    "filePath": "/certificates/GFG-AWS Architect Associate.pdf",
+    "title": "AWS Solutions Architect Associate",
+    "issuer": "GeeksforGeeks",
+    "year": "2025",
+    "category": "Cloud & Tools"
+  },
+  {
+    "fileName": "GFG-AWS Cloud.pdf",
+    "filePath": "/certificates/GFG-AWS Cloud.pdf",
+    "title": "AWS Cloud Design Foundations",
+    "issuer": "GeeksforGeeks",
+    "year": "2025",
+    "category": "Cloud & Tools"
+  },
+  {
+    "fileName": "GFG-Gen AI.pdf",
+    "filePath": "/certificates/GFG-Gen AI.pdf",
+    "title": "Generative AI Foundations",
+    "issuer": "GeeksforGeeks",
+    "year": "2025",
+    "category": "AI & Machine Learning"
+  },
+  {
+    "fileName": "GFG-IP Addressing.pdf",
+    "filePath": "/certificates/GFG-IP Addressing.pdf",
+    "title": "IP Addressing and Subnetting",
+    "issuer": "GeeksforGeeks",
+    "year": "2025",
+    "category": "Cloud & Tools"
+  },
+  {
+    "fileName": "GFG-Product Management.pdf",
+    "filePath": "/certificates/GFG-Product Management.pdf",
+    "title": "Product Management Foundations",
+    "issuer": "GeeksforGeeks",
+    "year": "2025",
+    "category": "Other"
+  },
+  {
+    "fileName": "GFG-Soft Skills.pdf",
+    "filePath": "/certificates/GFG-Soft Skills.pdf",
+    "title": "Professional Soft Skills",
+    "issuer": "GeeksforGeeks",
+    "year": "2025",
+    "category": "Other"
+  },
+  {
+    "fileName": "Google_Badge.png",
+    "filePath": "/certificates/Google_Badge.png",
+    "title": "Google Cloud Badge",
+    "issuer": "Google Cloud",
+    "year": "2025",
+    "category": "Cloud & Tools"
+  },
+  {
+    "fileName": "Hack-A-Tone Cer.pdf",
+    "filePath": "/certificates/Hack-A-Tone Cer.pdf",
+    "title": "Hack-A-Tone AI Challenge",
+    "issuer": "Hack-A-Tone",
+    "year": "2024",
+    "category": "Hackathons"
+  },
+  {
+    "fileName": "IBMDesign20251218-32-ra8r7q.pdf",
+    "filePath": "/certificates/IBMDesign20251218-32-ra8r7q.pdf",
+    "title": "Enterprise Design Thinking Practitioner",
+    "issuer": "IBM",
+    "year": "2025",
+    "category": "IBM"
+  },
+  {
+    "fileName": "IBMDesign_AI_fundamentals.pdf",
+    "filePath": "/certificates/IBMDesign_AI_fundamentals.pdf",
+    "title": "IBM Design Thinking AI Fundamentals",
+    "issuer": "IBM",
+    "year": "2025",
+    "category": "IBM"
+  },
+  {
+    "fileName": "ICAT-Aptitude test Cer.pdf",
+    "filePath": "/certificates/ICAT-Aptitude test Cer.pdf",
+    "title": "ICAT Aptitude Test Certificate",
+    "issuer": "ICAT",
+    "year": "2024",
+    "category": "Other"
+  },
+  {
+    "fileName": "Infosys ds certificate.pdf",
+    "filePath": "/certificates/Infosys ds certificate.pdf",
+    "title": "Infosys Springboard Data Science",
+    "issuer": "Infosys Springboard",
+    "year": "2025",
+    "category": "Infosys"
+  },
+  {
+    "fileName": "Infosys py certificate.pdf",
+    "filePath": "/certificates/Infosys py certificate.pdf",
+    "title": "Infosys Springboard Python",
+    "issuer": "Infosys Springboard",
+    "year": "2025",
+    "category": "Infosys"
+  },
+  {
+    "fileName": "Intro_LLM.png",
+    "filePath": "/certificates/Intro_LLM.png",
+    "title": "Introduction to Large Language Models",
+    "issuer": "Google Cloud",
+    "year": "2024",
+    "category": "AI & Machine Learning"
+  },
+  {
+    "fileName": "ISRO_hackathon_Certificate.pdf",
+    "filePath": "/certificates/ISRO_hackathon_Certificate.pdf",
+    "title": "ISRO Space Hackathon Certificate",
+    "issuer": "ISRO",
+    "year": "2024",
+    "category": "Hackathons"
+  },
+  {
+    "fileName": "Lyzr_Cert_Shaista_Naaz.pdf",
+    "filePath": "/certificates/Lyzr_Cert_Shaista_Naaz.pdf",
+    "title": "Lyzr AI Agent Developer Certification",
+    "issuer": "Lyzr AI",
+    "year": "2024",
+    "category": "AI & Machine Learning"
+  },
+  {
+    "fileName": "oracle-1.pdf",
+    "filePath": "/certificates/oracle-1.pdf",
+    "title": "Oracle Cloud Infrastructure Foundations",
+    "issuer": "Oracle",
+    "year": "2025",
+    "category": "Oracle"
+  },
+  {
+    "fileName": "oracle-3.pdf",
+    "filePath": "/certificates/oracle-3.pdf",
+    "title": "Oracle Cloud Services Specialist",
+    "issuer": "Oracle",
+    "year": "2025",
+    "category": "Oracle"
+  },
+  {
+    "fileName": "Oracle_Data.pdf",
+    "filePath": "/certificates/Oracle_Data.pdf",
+    "title": "Oracle Data Science Associate",
+    "issuer": "Oracle",
+    "year": "2025",
+    "category": "Oracle"
+  },
+  {
+    "fileName": "Oracle_DevOps.pdf",
+    "filePath": "/certificates/Oracle_DevOps.pdf",
+    "title": "Oracle Cloud Infrastructure DevOps",
+    "issuer": "Oracle",
+    "year": "2025",
+    "category": "Oracle"
+  },
+  {
+    "fileName": "PYTHON HR CER.pdf",
+    "filePath": "/certificates/PYTHON HR CER.pdf",
+    "title": "HackerRank Python (Basic) Certificate",
+    "issuer": "HackerRank",
+    "year": "2024",
+    "category": "Programming"
+  },
+  {
+    "fileName": "SHAISTA NAAZ_ISTE_CER.pdf",
+    "filePath": "/certificates/SHAISTA NAAZ_ISTE_CER.pdf",
+    "title": "ISTE Student Chapter Membership Certificate",
+    "issuer": "ISTE",
+    "year": "2024",
+    "category": "Other"
+  },
+  {
+    "fileName": "shak_oracle.pdf",
+    "filePath": "/certificates/shak_oracle.pdf",
+    "title": "Oracle Database SQL Certified Associate",
+    "issuer": "Oracle",
+    "year": "2025",
+    "category": "Oracle"
+  },
+  {
+    "fileName": "VibeathonX_CBIT.pdf",
+    "filePath": "/certificates/VibeathonX_CBIT.pdf",
+    "title": "VibeathonX CBIT Participation",
+    "issuer": "CBIT",
+    "year": "2024",
+    "category": "Hackathons"
+  }
+]
