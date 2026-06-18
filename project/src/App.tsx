@@ -548,7 +548,6 @@ function App() {
                 <span className="w-2.5 h-2.5 rounded-full bg-[#FFD60A] animate-ping" />
                 <span className="w-2.5 h-2.5 rounded-full bg-[#FFD60A] absolute left-4" />
                 <span className="text-xs font-semibold text-white uppercase tracking-wider">
-                  Available for Hire
                 </span>
               </div>
             </div>
