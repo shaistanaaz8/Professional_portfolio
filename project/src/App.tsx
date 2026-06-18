@@ -137,7 +137,7 @@ function App() {
 
   // Fetch certificates index
   useEffect(() => {
-    fetch('/certificates.json')
+    fetch(`${import.meta.env.BASE_URL}certificates.json`)
       .then(res => res.json())
       .then((data: Certificate[]) => setCertificates(data))
       .catch(err => console.error('Failed to load certificates manifest', err));
@@ -537,7 +537,7 @@ function App() {
               {/* Image Border Frame */}
               <div className="relative w-72 h-72 sm:w-85 sm:h-85 rounded-full p-2 bg-[#0A0A0A] border-2 border-[#FFD60A]/40 group-hover:border-[#FFD60A] group-hover:scale-[1.01] transition-all duration-500 shadow-[0_0_40px_rgba(255,214,10,0.15)] group-hover:shadow-[0_0_50px_rgba(255,214,10,0.3)]">
                 <img 
-                  src="/PROF_pic.jpeg" 
+                  src={`${import.meta.env.BASE_URL}PROF_pic.jpeg`} 
                   alt="Shaista Naaz Profile" 
                   className="w-full h-full object-cover rounded-full"
                 />
@@ -1212,7 +1212,7 @@ function App() {
 
                   <div className="flex gap-4">
                     <a 
-                      href="/resume.pdf"
+                      href={`${import.meta.env.BASE_URL}resume.pdf`}
                       download
                       className="flex-1 py-4 bg-[#FFD60A] hover:bg-[#FFB700] text-[#0A0A0A] font-bold rounded-xl text-center flex items-center justify-center gap-2 shadow-md transition-all duration-200"
                     >
